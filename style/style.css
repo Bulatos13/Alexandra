@@ -57,7 +57,7 @@ body{
 	border-radius: 50%;
 	background-color: orange;
 	border: 2px solid purple;
-	box-shadow: 0 0 8px 5px orange;
+	box-shadow: 0 0 8px 5px #f23c34;
 
 	position: absolute;
 	top: 50%;
